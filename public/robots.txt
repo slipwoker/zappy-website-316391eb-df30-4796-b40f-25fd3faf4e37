@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://-316391eb.zappy5.app/sitemap.xml
+Sitemap: https://raz-rozental.zappy5.app/sitemap.xml
