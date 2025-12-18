@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-316391eb-df30-4796-b40f.onrender.com/sitemap.xml
+Sitemap: https://razrosental.co.il/sitemap.xml
